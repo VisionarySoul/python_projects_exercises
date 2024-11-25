@@ -1,5 +1,3 @@
-# README
-
 ## Calculator Application
 
 ### Description
